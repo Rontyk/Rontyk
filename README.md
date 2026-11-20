@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Rontyk&color=ff5a1f&style=flat-square&label=Profile+views" alt="profile views" /></p>
 
-<h1 align="center">Hi 👋, I'm Assan</h1>
+<h1 align="center">Hi, I'm Assan</h1>
 <h3 align="center">Full-stack developer</h3>
 
 <p align="center">
