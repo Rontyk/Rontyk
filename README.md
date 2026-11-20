@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Rontyk&color=ff5a1f&style=flat-square&label=Profile+views" alt="profile views" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Rontyk&color=ff5a1f&style=flat-square"/></p>
 
 <h1 align="center">Hi, I'm Assan</h1>
 
