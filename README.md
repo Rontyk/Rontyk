@@ -1,10 +1,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Rontyk&color=ff5a1f&style=flat-square&label=Profile+views" alt="profile views" /></p>
 
 <h1 align="center">Hi 👋, I'm Assan</h1>
-<h3 align="center">Full-stack developer · sites & Telegram bots for business</h3>
+<h3 align="center">Full-stack developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5A1F&center=true&vCenter=true&width=520&lines=FastAPI+%2B+Next.js;Spring+Boot+%2B+PostgreSQL;Telegram+bots+that+book+clients;Almaty+%C2%B7+SDU+'27" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5A1F&center=true&vCenter=true&width=520&lines=FastAPI+%2B+Next.js;Spring+Boot+%2B+PostgreSQL;Almaty+%C2%B7+SDU+'27" alt="typing" />
 </p>
 
 <p align="center">
@@ -16,18 +16,9 @@
 </p>
 
 - 🔭 Working on **Optomat**, a B2B wholesale marketplace (**FastAPI, Next.js, PostgreSQL**)
-- 🚀 Building sites and bots for small business: **[rontyk.github.io](https://rontyk.github.io)**
 - 💬 Ask me about **Spring Boot, FastAPI, Django, React, PostgreSQL**
 - 🏆 3rd place at a regional programming olympiad
 - 🎓 SDU '27
-
-<h2>Demos:</h2>
-
-<p align="left">
-  <a href="https://rontyk.github.io/demos/coffee/"><img src="https://img.shields.io/badge/☕_Coffee_shop-order_to_WhatsApp-c4622d?style=for-the-badge" alt="coffee demo" /></a>
-  <a href="https://rontyk.github.io/demos/salon/"><img src="https://img.shields.io/badge/💅_Beauty_salon-online_booking-d98ea0?style=for-the-badge" alt="salon demo" /></a>
-  <a href="https://rontyk.github.io/demos/bot/"><img src="https://img.shields.io/badge/🤖_Car_service-booking_bot-3d5afe?style=for-the-badge" alt="bot demo" /></a>
-</p>
 
 <h2>Statistics:</h2>
 <p align="left">
@@ -43,7 +34,6 @@
 <p align="left">
   <a href="https://wa.me/77762377599" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp" alt="whatsapp" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ecipij" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://rontyk.github.io" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
